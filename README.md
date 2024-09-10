@@ -1,6 +1,6 @@
-- 👋 greetings, I’m @eriksnna..
-- 👀 i’m interested in games, machine learning and coding..
-- 🌱 I’m currently learning Html5, JavaScript and Python..
+- 👋 greetings, I’m erik
+- 👀 i’m interested in games, machine learning and coding
+- 🌱 I’m currently learning Html5, JavaScript and Python
 - 📫 How to reach me: eriksennamd@gmail.com
 
 <!---

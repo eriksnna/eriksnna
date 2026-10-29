@@ -1,6 +1,8 @@
-## Hi there 👋
+## Heya 👋
 
+- 💼 Linkedin: linkedin.com/in/eriksnna/
 - 📫 How to reach me: eriksennamd@gmail.com
+- - 🌱 I’m currently learning Rust and GO
 
 <!--
 **eriksnna/eriksnna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

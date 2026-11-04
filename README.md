@@ -1,6 +1,6 @@
 ## Heya 👋
 
-- 💼 Linkedin: linkedin.com/in/eriksnna/
+- 💼 Linkedin: [linkedin.com/in/eriksnna/](linkedin/eriksnna)
 - 📫 How to reach me: eriksennamd@gmail.com
 - 🌱 I’m currently learning Rust and GO
 
